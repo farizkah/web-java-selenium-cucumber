@@ -1,0 +1,17 @@
+screenshots/
+test-output/
+.gradle/
+build/
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+## OS X
+##############################
+.DS_Store
