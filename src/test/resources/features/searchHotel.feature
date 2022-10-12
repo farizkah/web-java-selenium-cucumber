@@ -1,5 +1,6 @@
 Feature: Search hotel
 
+  @Test123
   Scenario: Search hotel by area
     Given guest user visit hotel finder from homepage
     When user search area named "Lembang"

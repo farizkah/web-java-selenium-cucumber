@@ -16,6 +16,6 @@ dependencies {
     testImplementation 'io.github.bonigarcia:webdrivermanager:5.3.0'
 }
 
-//test {
-//    useJUnitPlatform()
-//}
+test {
+    systemProperties = System.properties as Map<String, ?>
+}
