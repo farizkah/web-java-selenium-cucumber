@@ -1,11 +1,5 @@
 # POC test automation for web application
 
-## Built using
-- Java
-- Gradle
-- Cucumber
-- Selenium
-
 ## Important notes
 - Website used in this POC: Traveloka
 - Feature files located in `src/test/resources/features`
